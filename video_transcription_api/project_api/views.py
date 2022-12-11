@@ -1,4 +1,5 @@
 from __future__ import unicode_literals
+import os
 from rest_framework.views import APIView
 from rest_framework.response import Response
 from rest_framework import status
@@ -31,6 +32,10 @@ class TranscribeAPI(APIView):
 
             whisper_model = whisper.load_model("base")
             transcription = whisper_model.transcribe(filename)
+
+            # If file exists, delete it.
+            if os.path.isfile(filename):
+                os.remove(filename)
 
             return Response({"status": "success",
                              "video_url": video_url,
