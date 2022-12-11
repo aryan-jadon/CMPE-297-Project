@@ -26,6 +26,7 @@ class ZeroShortSummarizerAPI(APIView):
                              "results": response},
                             status=status.HTTP_200_OK)
         except Exception as e:
+            print(e)
             return Response({"status": "failed"},
                             status=status.HTTP_400_BAD_REQUEST)
 
@@ -46,6 +47,7 @@ class BertSummarizerAPI(APIView):
                              "results": bert_summary},
                             status=status.HTTP_200_OK)
         except Exception as e:
+            print(e)
             return Response({"status": "failed"},
                             status=status.HTTP_400_BAD_REQUEST)
 
@@ -66,6 +68,7 @@ class GPTSummarizerAPI(APIView):
                              "results": GPT2_summary},
                             status=status.HTTP_200_OK)
         except Exception as e:
+            print(e)
             return Response({"status": "failed"},
                             status=status.HTTP_400_BAD_REQUEST)
 
@@ -87,5 +90,6 @@ class XLNETSummarizerAPI(APIView):
                              "results": xlnet_summary},
                             status=status.HTTP_200_OK)
         except Exception as e:
+            print(e)
             return Response({"status": "failed"},
                             status=status.HTTP_400_BAD_REQUEST)
