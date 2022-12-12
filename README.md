@@ -26,8 +26,6 @@
 
 ![Diagram](https://github.com/aryan-jadon/CMPE-297-Project/blob/main/screenshots/Streamlit-3.png)
 
-![Diagram](https://github.com/aryan-jadon/CMPE-297-Project/blob/main/screenshots/Diagram.png)
-
 ![Diagram](https://github.com/aryan-jadon/CMPE-297-Project/blob/main/screenshots/Transcription-API.png)
 
 ![Diagram](https://github.com/aryan-jadon/CMPE-297-Project/blob/main/screenshots/XLNET-Summarizer-API.png)
