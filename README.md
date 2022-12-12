@@ -9,5 +9,15 @@
 4. SWATHI ANANDRAM ( 015923804)
 
 
-#### Google Drive Containing Dataset and Model
-https://drive.google.com/drive/folders/1eatR59DtoSNRq3c5EiXKuVhyA8qgx-Wc?usp=sharing
+### Project Files
+
+#### Dataset Link - https://drive.google.com/drive/folders/1jG7f-U7QlH0Tf0Es9fp0AMcyZ1I5Mzmh?usp=sharing
+
+#### Slides Link - https://drive.google.com/drive/folders/1BiF2mIcIeJoaQq29q3e0iXnS3LK1NCu3?usp=sharing
+
+#### Project Report Link - https://drive.google.com/drive/folders/10s2rOf6i0t2ET28-Rap1JhtPgbtrPHlZ?usp=sharing
+
+#### Project Demo Video Link - https://drive.google.com/drive/folders/1n1RgTIgcNA765vJOndch1i73v7ViAvwh?usp=sharing
+
+
+## Project Screenshots
