@@ -21,3 +21,30 @@
 
 
 ## Project Screenshots
+
+
+### How To Run
+1. create conda environment using command 
+```bash
+conda create -n myenv python=3.9
+```
+2. install project dependencies 
+```bash
+pip install -r requirements.txt
+```
+3. run video_transcription_api form it's parent folder
+```bash
+python manage.py runserver 8001
+```
+4. run video_transcript_classification_api form it's parent folder
+```bash
+python manage.py runserver 8002
+```
+5. run summarizer_api form it's parent folder
+```bash
+python manage.py runserver 8000
+```
+6. run Streamlit App form it's parent folder
+```bash
+streamlit run app.py
+```
