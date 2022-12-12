@@ -15,13 +15,30 @@
 
 #### Slides Link - https://drive.google.com/drive/folders/1BiF2mIcIeJoaQq29q3e0iXnS3LK1NCu3?usp=sharing
 
-#### Project Report Link - https://drive.google.com/drive/folders/10s2rOf6i0t2ET28-Rap1JhtPgbtrPHlZ?usp=sharing
-
 #### Project Demo Video Link - https://drive.google.com/drive/folders/1n1RgTIgcNA765vJOndch1i73v7ViAvwh?usp=sharing
 
 
 ## Project Screenshots
 
+![Diagram](https://github.com/aryan-jadon/CMPE-297-Project/blob/main/screenshots/Streamlit-1.png)
+
+![Diagram](https://github.com/aryan-jadon/CMPE-297-Project/blob/main/screenshots/Streamlit-2.png)
+
+![Diagram](https://github.com/aryan-jadon/CMPE-297-Project/blob/main/screenshots/Streamlit-3.png)
+
+![Diagram](https://github.com/aryan-jadon/CMPE-297-Project/blob/main/screenshots/Diagram.png)
+
+![Diagram](https://github.com/aryan-jadon/CMPE-297-Project/blob/main/screenshots/Transcription-API.png)
+
+![Diagram](https://github.com/aryan-jadon/CMPE-297-Project/blob/main/screenshots/XLNET-Summarizer-API.png)
+
+![Diagram](https://github.com/aryan-jadon/CMPE-297-Project/blob/main/screenshots/Zero-Short-Summarizer-API.png)
+
+![Diagram](https://github.com/aryan-jadon/CMPE-297-Project/blob/main/screenshots/GPT-Summarizer-API.png)
+
+![Diagram](https://github.com/aryan-jadon/CMPE-297-Project/blob/main/screenshots/BERT-Summarizer-API.png)
+
+![Diagram](https://github.com/aryan-jadon/CMPE-297-Project/blob/main/screenshots/Classification-API.png)
 
 ### How To Run
 1. create conda environment using command 
