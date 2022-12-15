@@ -28,6 +28,11 @@ identifying videos.
 
 ![Diagram](https://github.com/aryan-jadon/CMPE-297-Project/blob/main/screenshots/Diagram.png)
 
+### MLOps Project Flow Diagram
+
+![Diagram](https://github.com/aryan-jadon/CMPE-297-Project/blob/main/screenshots/MLOpsWorkflow.png)
+
+
 ### Project Files
 
 #### MLOps Slides Link - https://drive.google.com/drive/folders/1L5IyrtueociFmLNkt7dkEuph3GdNj33g?usp=share_link
@@ -80,16 +85,6 @@ identifying videos.
 #### Classification API
 
 ![Diagram](https://github.com/aryan-jadon/CMPE-297-Project/blob/main/screenshots/Classification-API.png)
-
-
-## Project MLops Screenshots
-
-#### 1. Model Development, Tracking and Versioning 
-Model Artifact Located in Folder - https://github.com/aryan-jadon/CMPE-297-Project/tree/main/notebooks/mlruns
-
-![Diagram](https://github.com/aryan-jadon/CMPE-297-Project/blob/main/screenshots/MLFlow.png)
-
-#### 2. Model Development, Tracking and Versioning 
 
 
 
