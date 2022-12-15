@@ -47,7 +47,7 @@ conda create -n myenv python=3.9
 ```
 2. install project dependencies 
 ```bash
-pip install -r requirements.txt
+pip install -r complete_requirements.txt
 ```
 3. run video_transcription_api form it's parent folder
 ```bash

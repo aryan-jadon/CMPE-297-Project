@@ -1,18 +1,7 @@
 import json
-
 import requests
 import streamlit as st
-import yaml
 from transformers import pipeline
-
-
-def read_yaml_file():
-    with open('config.yaml') as file:
-        microservices_ports = yaml.safe_load(file)
-        print(microservices_ports)
-
-    return microservices_ports
-
 
 st.title('Summarized Video Transcript Classification using Zero Shot Learning')
 
@@ -180,4 +169,3 @@ if video_url:
 
             st.text("XLNET Results")
             st.code(xlnet_result)
-
