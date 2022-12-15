@@ -24,19 +24,28 @@ successful recently. Remarkably, the subject has drawn increased
 interest since deep learning models became an effective tool for
 identifying videos.
 
-### Project Diagram
+### Project Flow Diagram
 
 ![Diagram](https://github.com/aryan-jadon/CMPE-297-Project/blob/main/screenshots/Diagram.png)
 
 ### Project Files
 
-#### Dataset Link - https://drive.google.com/drive/folders/1jG7f-U7QlH0Tf0Es9fp0AMcyZ1I5Mzmh?usp=sharing
+#### MLOps Slides Link - https://drive.google.com/drive/folders/1L5IyrtueociFmLNkt7dkEuph3GdNj33g?usp=share_link
 
-#### Slides Link - https://drive.google.com/drive/folders/1BiF2mIcIeJoaQq29q3e0iXnS3LK1NCu3?usp=sharing
+#### Presentation Slides Link - https://drive.google.com/drive/folders/1BiF2mIcIeJoaQq29q3e0iXnS3LK1NCu3?usp=share_link
 
-#### Report Link - https://drive.google.com/drive/folders/10s2rOf6i0t2ET28-Rap1JhtPgbtrPHlZ?usp=share_link
+#### Dataset Link - https://drive.google.com/drive/folders/1jG7f-U7QlH0Tf0Es9fp0AMcyZ1I5Mzmh?usp=share_link
 
-#### Project Demo Video Link - https://drive.google.com/drive/folders/1n1RgTIgcNA765vJOndch1i73v7ViAvwh?usp=sharing
+#### Project Report Link - https://drive.google.com/drive/folders/10s2rOf6i0t2ET28-Rap1JhtPgbtrPHlZ?usp=share_link
+
+#### Project Demo Video Link - https://drive.google.com/drive/folders/1n1RgTIgcNA765vJOndch1i73v7ViAvwh?usp=share_link
+
+
+## Team Members Responsibility
+1. Aryan Jadon
+2. Swathi Anandram
+3. Shreya Nimbhorkar
+4. Harika Nalam
 
 
 ## Project Screenshots
@@ -82,5 +91,5 @@ python manage.py runserver 8000
 ```
 6. run Streamlit App form it's parent folder
 ```bash
-streamlit run app.py
+streamlit run project_app.py
 ```

@@ -3,7 +3,7 @@ import requests
 import streamlit as st
 from transformers import pipeline
 
-st.title('Summarized Video Transcript Classification using Zero Shot Learning')
+st.title('Summarized Video Transcript Classification using Few Shot Learning and Zero Shot Learning')
 
 st.header('Enter Youtube Video URL')
 video_url = st.text_input('YouTube Video', '')
