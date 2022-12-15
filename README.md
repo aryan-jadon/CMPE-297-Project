@@ -47,10 +47,10 @@ identifying videos.
 
 
 ## Team Members Responsibility
-1. Aryan Jadon
-2. Swathi Anandram
-3. Shreya Nimbhorkar
-4. Harika Nalam
+1. Aryan Jadon - Developing MLOps Pipeline, Few Shot Learning Model Development, Streamlit App and Project Report
+2. Swathi Anandram - Zero Shot Learning Model Development and Project Report
+3. Shreya Nimbhorkar - Video Summary API Models and Project Report
+4. Harika Nalam - Video Transcription API using Whisper OpenAI and Project Report
 
 
 ## Project Screenshots
