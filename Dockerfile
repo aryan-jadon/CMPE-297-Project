@@ -1,5 +1,5 @@
 # lightweight python
-FROM python:3.7-slim
+FROM python:3.9-alpine
 
 RUN apt-get update
 
@@ -14,4 +14,4 @@ RUN ls -la $APP_HOME/
 RUN pip install -r requirements.txt
 
 # Run the streamlit on container startup
-CMD [ "streamlit", "run","--server.enableCORS","false","streamlit_app.py" ]
+CMD [ "streamlit", "run","--server.enableCORS","false","project_app.py" ]
