@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/model_weights/bart-large-cnn" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/model_weights/bart-large-mnli" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/notebooks/model_weights/bart-large-cnn" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/notebooks/model_weights/bart-large-mnli" vcs="Git" />
+  </component>
+</project>
