@@ -1,6 +1,4 @@
-# Summarized Video Transcript Classification using Zero Shot Learning
-
-![Diagram](https://github.com/aryan-jadon/CMPE-297-Project/blob/main/screenshots/Diagram.png)
+# Project - Summarized Video Transcript Classification using Few Shot Learning and Zero Shot Learning
 
 ### Team Members
 1. ARYAN JADON ( 015260609 ) 
@@ -8,6 +6,27 @@
 3. SHREYA NIMBHORKAR ( 015226315 ) 
 4. SWATHI ANANDRAM ( 015923804)
 
+
+### Project Abstract
+On the Internet, a massive volume of video recordings
+is made and shared daily. It has become very challenging
+in today’s daily life to watch videos that may last longer than
+anticipated. Sometimes our efforts may be in vain if we cannot
+discern helpful information from them. Automatically creating
+summaries of these videos material enables us to rapidly scan
+for critical themes and saves us time and effort from having to
+watch the entire thing again. Our system aims to provide the
+user to upload a video and get the transcription of the video,
+which converts speech to text and classifies the video as per the
+categories. It is helpful to determine the tags of the videos that are
+being uploaded. The work of classifying videos has become very
+successful recently. Remarkably, the subject has drawn increased
+interest since deep learning models became an effective tool for
+identifying videos.
+
+### Project Diagram
+
+![Diagram](https://github.com/aryan-jadon/CMPE-297-Project/blob/main/screenshots/Diagram.png)
 
 ### Project Files
 
