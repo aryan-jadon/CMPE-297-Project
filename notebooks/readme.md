@@ -1,4 +1,4 @@
-## Model Notebook
+## Model Notebook and Weights
 
 1. Zero Shot Text Classification Notebook
 Google Colab Link - https://colab.research.google.com/drive/1XpEB-dLWvy0R5sCNPplpCrv7b66uolVd?usp=sharing
