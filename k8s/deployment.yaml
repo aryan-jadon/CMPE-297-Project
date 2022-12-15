@@ -1,7 +1,7 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: special_topics_project
+  name: specialtopicsproject
 spec:
   replicas: 2
   selector:
@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: cv-app
-        image: gcr.io/special-topics-project/webapp:v1
+        image: gcr.io/specialtopicsproject/webapp:v1
         ports:
         - containerPort: 8501
