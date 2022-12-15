@@ -50,13 +50,23 @@ identifying videos.
 
 ## Project Screenshots
 
+### StreamLit App
+
+![Diagram](https://github.com/aryan-jadon/CMPE-297-Project/blob/main/screenshots/streamlit-run-1.png)
+
 ![Diagram](https://github.com/aryan-jadon/CMPE-297-Project/blob/main/screenshots/Streamlit-1.png)
 
 ![Diagram](https://github.com/aryan-jadon/CMPE-297-Project/blob/main/screenshots/Streamlit-2.png)
 
 ![Diagram](https://github.com/aryan-jadon/CMPE-297-Project/blob/main/screenshots/Streamlit-3.png)
 
+### Project API's
+
+#### Transcription API
+
 ![Diagram](https://github.com/aryan-jadon/CMPE-297-Project/blob/main/screenshots/Transcription-API.png)
+
+#### Summarizer API
 
 ![Diagram](https://github.com/aryan-jadon/CMPE-297-Project/blob/main/screenshots/XLNET-Summarizer-API.png)
 
@@ -66,29 +76,50 @@ identifying videos.
 
 ![Diagram](https://github.com/aryan-jadon/CMPE-297-Project/blob/main/screenshots/BERT-Summarizer-API.png)
 
+
+#### Classification API
+
 ![Diagram](https://github.com/aryan-jadon/CMPE-297-Project/blob/main/screenshots/Classification-API.png)
 
-### How To Run
+
+## Project MLops Screenshots
+
+#### 1. Model Development, Tracking and Versioning 
+Model Artifact Located in Folder - https://github.com/aryan-jadon/CMPE-297-Project/tree/main/notebooks/mlruns
+
+![Diagram](https://github.com/aryan-jadon/CMPE-297-Project/blob/main/screenshots/MLFlow.png)
+
+#### 2. Model Development, Tracking and Versioning 
+
+
+
+### Steps To Run Project
+
 1. create conda environment using command 
 ```bash
 conda create -n myenv python=3.9
 ```
+
 2. install project dependencies 
 ```bash
 pip install -r complete_requirements.txt
 ```
+
 3. run video_transcription_api form it's parent folder
 ```bash
 python manage.py runserver 8001
 ```
+
 4. run video_transcript_classification_api form it's parent folder
 ```bash
 python manage.py runserver 8002
 ```
+
 5. run summarizer_api form it's parent folder
 ```bash
 python manage.py runserver 8000
 ```
+
 6. run Streamlit App form it's parent folder
 ```bash
 streamlit run project_app.py
