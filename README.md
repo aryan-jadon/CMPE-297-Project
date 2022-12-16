@@ -1,5 +1,9 @@
 # Project - Summarized Video Transcript Classification using Few Shot Learning and Zero Shot Learning
 
+## Updated Readme Part 
+1. Not amplified video audio part can be found here - https://drive.google.com/file/d/19yAiI79twurWyvaWyEdeo8yhhL1lvAHw/view?usp=share_link
+2. added code references in the github readme end section
+
 ### Team Members
 1. ARYAN JADON ( 015260609 ) 
 2. HARIKA NALAM ( 015939963 ) 
@@ -119,3 +123,14 @@ python manage.py runserver 8000
 ```bash
 streamlit run project_app.py
 ```
+
+## Code References
+1. https://openai.com/blog/whisper/
+2. https://github.com/openai/whisper
+3. https://colab.research.google.com/drive/1WJ98KHgZxFGrHiMm4TyWZllSew_Af_ff?usp=sharing
+4. https://huggingface.co/spaces/openai/whisper
+5. https://huggingface.co/facebook/bart-large-mnli
+6. https://huggingface.co/docs/transformers/tasks/summarization
+7. https://medium.com/analytics-vidhya/text-summarization-using-bert-gpt2-xlnet-5ee80608e961
+8. https://github.com/huggingface/setfit
+9. https://huggingface.co/blog/setfit
